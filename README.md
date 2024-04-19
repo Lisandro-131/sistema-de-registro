@@ -3,3 +3,5 @@
 - Estado del proyecto: En construción.
 
 ```npm install react ```
+
+Sistema de registro 2
